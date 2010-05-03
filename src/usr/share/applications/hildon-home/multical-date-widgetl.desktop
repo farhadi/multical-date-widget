@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Multi-calendar Date Widget
+Comment=Show the current day of the selected calendar
+Type=python
+X-Path=multical-date-widget.py
+X-Multiple=true
